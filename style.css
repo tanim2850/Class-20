@@ -1,0 +1,13 @@
+.breadcrumb a{
+    text-decoration: none;
+}
+.carousel-item img{
+    width: 200px;
+    height: 400px;
+}
+.fotter{
+    padding: 10px 0;
+    background-color: #17a2b8;
+    text-align: center;
+    color: white;
+}
